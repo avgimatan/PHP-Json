@@ -6,3 +6,4 @@ Each method has its own table.
 PHP v7.3.12  
 Environment: WAMP Server 3.2.0  
 Bootstrap template Vendor: https://github.com/StartBootstrap/startbootstrap-modern-business  
+test
